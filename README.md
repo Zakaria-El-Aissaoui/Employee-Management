@@ -1,2 +1,2 @@
 # Employee-Management
-Employee management app using Spring Boot, CRUD and Restful API
+Employee management app using ReactJS, Spring Boot, CRUD and Restful API
